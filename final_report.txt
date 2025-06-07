@@ -1,0 +1,46 @@
+# Báo cáo Hoạt Động Sản Xuất Tháng 2 và Tháng 3
+
+## Giới thiệu
+Báo cáo này tổng hợp các hoạt động sản xuất trong tháng 2 và tháng 3, bao gồm thời gian dừng lò, các dự án thực hiện, các dự án không báo cáo, không theo đuổi, và tình hình nhân sự. Mục tiêu của báo cáo là cung cấp cái nhìn tổng quan về hiệu suất và các hoạt động bảo trì, bảo dưỡng trong nhà máy.
+
+## 1. Thời Gian Dừng Lò
+
+### Tháng 2
+- **Lò 5, 6, 7**: Có thời gian dừng lò cao nhất, mỗi lò dừng 9570 phút.
+- **Lò 123**: Có thời gian dừng lò thấp nhất với chỉ 90 phút.
+- Tổng thời gian dừng lò trong tháng 2 là đáng kể, ảnh hưởng đến hiệu suất sản xuất.
+
+### Tháng 3
+- **Lò 1 và 3**: Có thời gian dừng lò cao nhất, lần lượt là 3840 và 3810 phút.
+- **Lò 123**: Không có thời gian dừng lò, cho thấy hiệu suất hoạt động tốt.
+
+## 2. Dự Án Thực Hiện
+
+### Tháng 2
+- Các dự án nổi bật bao gồm bảo dưỡng chuyên sâu máy nén khí 75 Kw, cải tạo vít cấp định lượng tro bay, và sửa chữa hệ thống băng tải.
+- Các dự án này nhằm mục tiêu cải thiện hiệu suất và độ tin cậy của thiết bị.
+
+### Tháng 3
+- Tiếp tục thực hiện các dự án bảo trì như hoàn thiện hệ thống dập bụi lò 123 và thay thế băng tải bị hỏng.
+- Các dự án mới như thiết kế hệ thống khuấy vôi sữa và phân loại sản phẩm vôi cũng được triển khai.
+
+## 3. Dự Án Không Báo Cáo
+
+### Tháng 2 và Tháng 3
+- Các dự án không báo cáo chủ yếu liên quan đến bảo trì, sửa chữa thiết bị nhà máy và mục tiêu giảm giờ dừng lò sự cố.
+- Các dự án này cần được theo dõi và báo cáo để đảm bảo tiến độ và hiệu quả.
+
+## 4. Dự Án Không Theo Đuổi
+
+### Tháng 2 và Tháng 3
+- Các dự án không theo đuổi tương tự như các dự án không báo cáo, chủ yếu tập trung vào bảo trì và sửa chữa thiết bị.
+- Cần đánh giá lại các dự án này để quyết định tiếp tục hay ngừng triển khai.
+
+## 5. Nhân Sự
+
+### Tháng 2
+- Nhân viên tham gia nhiều nhất là Bình với 108 công, tiếp theo là Tuấn và Toản với lần lượt 46 và 57 công.
+- Sự phân bổ công việc cho nhân viên cần được tối ưu hóa để đảm bảo hiệu suất làm việc.
+
+## Kết Luận
+Báo cáo cho thấy thời gian dừng lò trong tháng 2 và tháng 3 là một vấn đề cần được quan tâm để cải thiện hiệu suất sản xuất. Các dự án bảo trì và cải tạo đang được thực hiện tích cực, tuy nhiên cần chú ý đến việc báo cáo và theo dõi tiến độ dự án. Nhân sự tham gia vào các dự án cần được phân bổ hợp lý để tối ưu hóa nguồn lực.

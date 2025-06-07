@@ -1,0 +1,152 @@
+{
+  "Tháng 2": {
+    "tong_thoi_gian_dung_lo": {
+      "lò 1": 4200.0,
+      "lò 2": 4500.0,
+      "lò 3": 4380.0,
+      "lò 5": 9510.0,
+      "lò 6": 9570.0,
+      "lò 7": 9570.0,
+      "lò 9": 4230.0,
+      "lò 123": 90.0,
+      "lò 8": 1650.0,
+      "lò 10": 1590.0,
+      "lò 89": 0.0,
+      "lò 4": 0.0,
+      "lò 67": 0.0,
+      "lò 47": 0.0,
+      "lò  6": 0.0
+    },
+    "so_cong_nhan_vien": {
+      "Bình": 108,
+      "Tuấn": 46,
+      "Toản": 57,
+      "Hoàn": 1,
+      "Hải": 1,
+      "Sơn": 4
+    },
+    "du_an_trong_thang": [
+      "Bảo dưỡng chuyên sâu máy nén khí 75 Kw",
+      "Chạy thử và cải tạo vít cấp định lượng tro bay",
+      "Cải tạo cách lắp van gió tổng Tam Điệp",
+      "Cải tạo sàng quay S4",
+      "Kéo cáp nguồn, làm tủ phân phối hầm lò số 3",
+      "Làm kín cửa gió, cửa thăm các lò",
+      "Làm lại ghệt than, ghệt vôi các lò 1-10",
+      "Làm lại mối nối gầu 123",
+      "Sửa chữa, thay thế con lăn hệ thống băng tải trong nhà máy",
+      "Thay băng gầu vôi lò 47",
+      "Thi công chế tạo ghi lò 2 Tam Điệp",
+      "Thi công dự án hút bụi các lò 123",
+      "Thi công sửa chữa ghi lò 4",
+      "Thiết kế chế tạo lại gối lô bị động gầu vôi 47, 123, 89",
+      "Vệ sinh, bảo dưỡng, thí nghiệm trạm biến áp lưới điện 22, 35 Kv"
+    ],
+    "so_sanh_tien_do": {
+      "Tiến độ kế hoạch": 11,
+      "Thực tế hoàn thành": 15
+    },
+    "du_an_khong_theo_duoi": [
+      "Bảo dưỡng máy nén khí 75 Kw",
+      "Bảo trì, sửa chữa thiết bị nhà máy. Mục tiêu giờ dừng lò sự cố < 800h ( <12%)",
+      "Hoàn thiện chạy thử hệ thống dập bụi lò 123",
+      "Hoàn thiện ghi lò 2 Tam Điệp",
+      "Làm lại giá gối đỡ các gầu vôi 1-10, chế biến",
+      "Làm lại máng ra vôi gầm silo 47",
+      "Nối lại băng gầu vôi lò 123",
+      "Thay băng tải cho các băng bị hỏng",
+      "Thay cáp gầu kíp lò 123",
+      "Thay cáp gầu kíp lò 47",
+      "Thiết kế lại hệ thống chuyển liệu máy nghiền đĩa"
+    ],
+    "du_an_khong_bao_cao_lai": [
+      "Bảo dưỡng máy nén khí 75 Kw",
+      "Bảo trì, sửa chữa thiết bị nhà máy. Mục tiêu giờ dừng lò sự cố < 800h ( <12%)",
+      "Hoàn thiện chạy thử hệ thống dập bụi lò 123",
+      "Hoàn thiện ghi lò 2 Tam Điệp",
+      "Làm lại giá gối đỡ các gầu vôi 1-10, chế biến",
+      "Làm lại máng ra vôi gầm silo 47",
+      "Nối lại băng gầu vôi lò 123",
+      "Thay băng tải cho các băng bị hỏng",
+      "Thay cáp gầu kíp lò 123",
+      "Thay cáp gầu kíp lò 47",
+      "Thiết kế lại hệ thống chuyển liệu máy nghiền đĩa"
+    ]
+  },
+  "Tháng 3": {
+    "tong_thoi_gian_dung_lo": {
+      "lò 123": 0.0,
+      "lò 1": 3840.0,
+      "lò 4": 2487.0,
+      "lò 5": 2427.0,
+      "lò 6": 2907.0,
+      "lò 7": 2427.0,
+      "lò 3": 3810.0,
+      "lò 8": 1215.0,
+      "lò 9": 1800.0,
+      "lò 10": 3315.0,
+      "lò 2": 3870.0,
+      "lò 89": 0.0,
+      "lò 4567": 0.0,
+      "lò 8910": 0.0,
+      "lò 47": 0.0
+    },
+    "so_cong_nhan_vien": {
+      "Bình": 91,
+      "Toản": 44,
+      "Tải": 1,
+      "Tuấn": 44,
+      "Sơn": 3,
+      "Hoàn": 6
+    },
+    "du_an_trong_thang": [
+      "Bảo dưỡng máy nén khí 75 Kw",
+      "Các công việc bảo trì bảo dưỡng trong nhà máy",
+      "Hoàn thiện chạy thử hệ thống dập bụi lò 123",
+      "Hoàn thiện ghi lò 2 Tam Điệp",
+      "Làm lại giá gối đỡ các gầu vôi 1-10, chế biến",
+      "Làm lại máng ra vôi gầm silo 47",
+      "Nối lại băng gầu vôi lò 123",
+      "Thay băng tải cho các băng bị hỏng (băng mặt silo 1000T, băng silo 123, băng gầm L123)",
+      "Thay cáp gầu kíp lò 123",
+      "Thay cáp gầu kíp lò 47",
+      "Tìm hiểu áp dụng AI trong công việc"
+    ],
+    "so_sanh_tien_do": {
+      "Tiến độ kế hoạch": 14,
+      "Thực tế hoàn thành": 11
+    },
+    "du_an_khong_theo_duoi": [
+      "Bảo trì, sửa chữa thiết bị nhà máy. Mục tiêu giờ dừng lò sự cố < 600h ( <8.3%)",
+      "Hoà máy nén 75Kw vào hệ thống khí",
+      "Kiểm tra lại hệ thống tiếp địa toàn nhà máy chuẩn bị cho mùa mưa",
+      "Kiểm tra thiết bị, dự án trong Hà Tĩnh",
+      "Làm lại hệ thống khuấy vôi sữa",
+      "Thi công hệ thống dập bụi lò 89 10",
+      "Thi công điện hầm lò 3 +2 mỏ Sơn La",
+      "Thi kết lại khớp nối gầu tải vôi các lò, cụm xưởng chế biến",
+      "Thiết kế chuyển vật liệu nghiền lên silo 1000T (vôi sữa, liệu)",
+      "Thiết kế phân loại sản phẩm vôi",
+      "Thiết kế, thi công đường nước chuyển từ bên sông về bên 123, 47",
+      "Thí nghiệm chia đôi giữa liệu từ bàn cân 120T",
+      "Thí nghiệm nâng công suất vôi sữa",
+      "Tiếp tục triển khai công việc AI"
+    ],
+    "du_an_khong_bao_cao_lai": [
+      "Bảo trì, sửa chữa thiết bị nhà máy. Mục tiêu giờ dừng lò sự cố < 600h ( <8.3%)",
+      "Hoà máy nén 75Kw vào hệ thống khí",
+      "Kiểm tra lại hệ thống tiếp địa toàn nhà máy chuẩn bị cho mùa mưa",
+      "Kiểm tra thiết bị, dự án trong Hà Tĩnh",
+      "Làm lại hệ thống khuấy vôi sữa",
+      "Thi công hệ thống dập bụi lò 89 10",
+      "Thi công điện hầm lò 3 +2 mỏ Sơn La",
+      "Thi kết lại khớp nối gầu tải vôi các lò, cụm xưởng chế biến",
+      "Thiết kế chuyển vật liệu nghiền lên silo 1000T (vôi sữa, liệu)",
+      "Thiết kế phân loại sản phẩm vôi",
+      "Thiết kế, thi công đường nước chuyển từ bên sông về bên 123, 47",
+      "Thí nghiệm chia đôi giữa liệu từ bàn cân 120T",
+      "Thí nghiệm nâng công suất vôi sữa",
+      "Tiếp tục triển khai công việc AI"
+    ]
+  }
+}

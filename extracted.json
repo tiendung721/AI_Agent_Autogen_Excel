@@ -1,0 +1,3093 @@
+{
+  "Tháng 2": {
+    "log": [
+      {
+        "Ngày": "Ngày",
+        "Mô tả công việc": "Mô tả công việc",
+        "Ghi chú": "Ghi chú",
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 1,
+        "Mô tả công việc": "-Sự cố toa lò 1 kẹt: Khoa, Hồng",
+        "Ghi chú": "Lò 1",
+        "Thời gian dừng (phút)": 90.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "-Sự cố van lật chế biến 123: Khoa, Hồng",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 180.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "-Sự cố băng tải vôi 19m sau gầm lò 123 bị đứt: Khoa, Hồng",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 810.0
+      },
+      {
+        "Ngày": 2,
+        "Mô tả công việc": "-Sự cố băng hố âm S1 bị kẹt: Khoa, Hồng, Bình C",
+        "Ghi chú": "Lò 5, Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 60.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "-Sự cố đút băng 19m sau gầm lò 123: Khoa, Hồng, Bình C",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 600.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "-Sự cố kẹt ghi lò 5: Sảng",
+        "Ghi chú": "Lò 5",
+        "Thời gian dừng (phút)": 60.0
+      },
+      {
+        "Ngày": 3,
+        "Mô tả công việc": " Hỗ trợ vận hành lau cam: Bình, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Mồi nước bơm hố âm: Bình, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh can nhiệt soi vôi: Bình",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh tủ điện các lò: all",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng cân đá X10 : Sảng (hỏng biến tần)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố gầu tải clanhke, phân ly nghiền xi: (mất tín hiệu điều khiển)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "-Sự cố kẹt ghi lò 9: Sảng",
+        "Ghi chú": "Lò 9",
+        "Thời gian dừng (phút)": 90.0
+      },
+      {
+        "Ngày": 4,
+        "Mô tả công việc": "- Vệ sinh tủ điện, máy nén khí, hệ thống cân các lò: all",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa điện dưới Thiên Tôn: Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Bắn ghệt các băng gầm lò 123: Bình, Sảng, Tuấn, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng cân than đá lò 8 9 10: Sảng",
+        "Ghi chú": "Lò 8, Lò 9, Lò 10",
+        "Thời gian dừng (phút)": 30.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra bơm cấp nước sàng S1 : Bình, Tuấn, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố bản lề băng lên sàng 8910: Khoa, Hồng, Bình C",
+        "Ghi chú": "Lò 8, Lò 9, Lò 10",
+        "Thời gian dừng (phút)": 180.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng hố âm 8910 lệch: Khoa, Hồng, Bình C",
+        "Ghi chú": "Lò 8, Lò 9, Lò 10",
+        "Thời gian dừng (phút)": 270.0
+      },
+      {
+        "Ngày": 5,
+        "Mô tả công việc": "- Sự cố gầu kíp lò 89 10: Sảng (lệch trục lắp loadcell căng cáp)",
+        "Ghi chú": "Lò 8, Lò 9, Lò 10",
+        "Thời gian dừng (phút)": 510.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Tiếp tục Bắn ghệt băng tải gầm lò: Bình, Toản, Tài, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- bơm mỡ quạt các lò: Sảng, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thay bơm hút bùn hố âm: Bình, Toản, Tài, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố thủng sàng xỉ 123: Hồng, Thế Anh",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 90.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố kiểm tra ghi lò 1: Bình C",
+        "Ghi chú": "Lò 1",
+        "Thời gian dừng (phút)": 150.0
+      },
+      {
+        "Ngày": 6,
+        "Mô tả công việc": "- Đi Tam Điệp Kiểm tra thiết bị: Sảng",
+        "Ghi chú": "Phòng điện và cơ hợp nhất",
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thay động cơ băng mặt silo 123: Bình đ, Toản, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Đi Vệ sinh quạt phân ly vôi sữa: Tài, Bình ck",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố làm cánh cửa thăm ghi lò 1: Khoa, Hồng",
+        "Ghi chú": "Lò 1",
+        "Thời gian dừng (phút)": 120.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Chuẩn bị làm ghệt băng gầm lò 89 10: Khoa, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "-  Sử lý tăng xích và bắt lại gối bi chủ động băng hố âm 8910: Khoa, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Xử lý tụt xích và căn chỉnh lại nhông băng tải chéo vào sàng : Quang, Thế anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": " - Chuẩn bị tôn sửa chữa van lật và phễu trung gian 8910: Quang, Thế anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố quạt lò 9 : Sảng, Toản, Bình",
+        "Ghi chú": "Lò 9",
+        "Thời gian dừng (phút)": 300.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố van ra vôi , kiểm tra ghi lò 2: Bình C, Hồng",
+        "Ghi chú": "Lò 2",
+        "Thời gian dừng (phút)": 420.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố xích động cơ băng thêm sàng 8910: Quang, Thế Anh",
+        "Ghi chú": "Lò 8, Lò 9, Lò 10",
+        "Thời gian dừng (phút)": 60.0
+      },
+      {
+        "Ngày": 7,
+        "Mô tả công việc": "- Bảo dưỡng bàn ghi thủy lực lò 89 10: Sảng, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố quạt lò 9: Sảng, Toản (cháy động cơ)",
+        "Ghi chú": "Lò 9",
+        "Thời gian dừng (phút)": 1020.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- căn chỉnh động cơ quạt hút bụi vôi sữa: Bình, Thế anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh tủ điện máy nén khí: Bình, Thế anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố van vôi lò 2: Bình (đứt dây)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra điện khu vực test mẫu KCS: Bình, Thế anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Bắn ghệt băng gầm lò 8 -10: Khoa, Hồng, Tài, Quang",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Làm cửa thăm ghi lò 2: Tài, Quang",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Tra dầu toa xích: Bình C, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố gầu kíp 123 báo lỗi : Toản",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 60.0
+      },
+      {
+        "Ngày": 8,
+        "Mô tả công việc": "- Căn chỉnh động cơ băng mặt silo 123, silo 1000T: Bình, Thế Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra gầu đá S1, S2 : Bình, Thế anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh, tra dầu toa xích, bơm mỡ sàng rung đá S1, S2 : Tuấn, Bình",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Bắn ghệt lò 89 10: Hồng Khoa",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra cảm biến gầu kíp, động cơ giảm tốc gầu kíp các lò 4: Sảng, ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố gầu kíp lò 123: Bình (chập chờn cảm biến)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự gầu vôi lò 89: Hồng, Khoa (bong miếng dán)",
+        "Ghi chú": "Lò 8, Lò 9, Lò 10",
+        "Thời gian dừng (phút)": 60.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố rung vào gầu múc vôi 47: Tuấn (đứt dây)",
+        "Ghi chú": "Lò 5, Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 90.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố gầu múc vôi 123: Sảng, Khoa, Hồng (lệch gầu vôi)",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 660.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố can nhiệt soi vôi lò 67: Bình (hỏng can nhiệt)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố kẹt băng đỉnh silo 123: Bình C, Tuấn (kẹt con lăn)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố thay quạt lò 9: Bình, Sảng, Tuấn",
+        "Ghi chú": "Lò 9",
+        "Thời gian dừng (phút)": 630.0
+      },
+      {
+        "Ngày": 9,
+        "Mô tả công việc": "- Hoàn thiện bắn ghệt băng gầm lò 8, 9, 10 : Hồng, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Chỉnh băng cân than lò 8, 9, 10: Hồng, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố Kiểm tra khe ghi lò 2: Khoa, Bình C",
+        "Ghi chú": "Lò 2",
+        "Thời gian dừng (phút)": 60.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra gầu vôi các lò, bơm mỡ sàng đá, vôi: Bình C, Thế Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra tình trạng lò 47: Sảng, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra đường lưới điện nhà máy: Sảng, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố can nhiệt ra vôi lò 67: Sảng (đứt dây)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Chỉnh lại miệng ra vôi 10: Hồng, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra quay toa lò 4: Sảng, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng tải đá qua đường 123: Hồng",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 30.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng cân than 8910: Hồng",
+        "Ghi chú": "Lò 8, Lò 9, Lò 10",
+        "Thời gian dừng (phút)": 180.0
+      },
+      {
+        "Ngày": 10,
+        "Mô tả công việc": "- Lắp ghệt băng than từ kho than sang các vị trí: Hồng, Khoa, Quang, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra bổ xung dầu hộp giảm tốc. bôi dầu nhông xích: Bình, Thế anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Lắp, Kiểm tra bơm nước cấp rửa đá S1, bơm nước ngoài cổng: Sảng, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Lắp điện tời lò 4, hỗ trợ đội cơ khí Phú Cường gia công ghi lò 4: Sảng, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Hỗ trợ vận hành lò sắt: Hồng, Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra đèn chiếu sáng lò 1: Bình đ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 11,
+        "Mô tả công việc": "- Đi X18, Kiểm tra hệ cân tro bay: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra lưới sàng vôi S4 : Khoa, Thế anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Làm ghệt băng mặt silo 1000T: Bình đ, Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa chữa con lăn: Tuấn, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng cấp liệu vào thùng chứa: Bình đ, Toản, Tài (vỡ bi hộp giảm tốc)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố sàng quay S4 : Sảng, Toản, (do đọng liệu, tốc quay của lớn)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố kẹt bàn ghi lò 8: Sảng, Toản (liệu đọng trên ống gió làm kẹt ghi",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố kẹt băng 1 mặt lò 4567: Thế Anh, Sảng",
+        "Ghi chú": "Lò 5, Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 90.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố hàn khe ghi lò 9: Khoa, Thế Anh",
+        "Ghi chú": "Lò 9",
+        "Thời gian dừng (phút)": 540.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố kẹt băng vào gầu múc vôi 123: Khoa, Thế Anh",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 15.0
+      },
+      {
+        "Ngày": 12,
+        "Mô tả công việc": "- Bắn ghệt băng tải khu vực silo 1000T: Bình, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh toa, Vệ sinh động cơ, thiết bị mặt lò các lò: Bình, Toản, Sảng, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Bắn ghệt than khu vực lò 47: Khoa, Thế Anh, Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa chữa băng tải ra vôi qua đường lò 123: Khoa, Thế Anh, Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Cắt tôn thép chuẩn bị làm máng đá: Khoa, Thế Anh, Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thay con lăn khu vực lò 123: Quang, Tuấn, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vá băng 2 mặt lò 47: Bình, Tài, Khải, ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra phanh gầu vôi 123: Sảng, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 13,
+        "Mô tả công việc": "- Vá băng tải mặt lò 47: Bình, Tài, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố hàn vá ghi lò 8: Khoa, Thế Anh",
+        "Ghi chú": "Lò 8",
+        "Thời gian dừng (phút)": 60.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh tủ điện máy nén khí: Sảng, Tuấn, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thay con lăn, kiểm tra các điểm kẹt, rơi vãi: Tăng, Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra, căn gầu ra vôi các lò: Khoa, Thế anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra, bơm mỡ cụm máy nghiền, Vôi sữa: Bình, Tài, ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Chuẩn bị Làm đường nước dập bụi: Sảng, Tuấn, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng hố âm S2 : Bình, Thế anh (hỏng ghệt, kẹt băng tải)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố động cơ rung băng cân than lò 123: Toản, Tuấn (đứt ốc)",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 120.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố đường khí nén lò 8 9 10: Toản, Bình (nứt ống)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố động cơ phân ly vôi sữa: Sảng (vận hành)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra các vị trí cần Làm hành lang an toàn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng 2 mặt lò 4567: Bình, Tài",
+        "Ghi chú": "Lò 5, Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 180.0
+      },
+      {
+        "Ngày": 14,
+        "Mô tả công việc": "- Chuẩn bị Tôn, Vá toa các lò: Khoa, tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Hỗ trợ đội xây dựng làm ghi lò 4: Thế Anh, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Chuẩn bị đồ làm phần hút bụi lò 123: Bình, Toản ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh cân, Kiểm tra hệ thống cân các lò: Bình, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra ghệt, gầu vôi: Hồng, Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Cân toa các lò  6, 7 , 10: Hồng, Bình C, Sảng, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra điện dưới Thiên Tôn: Bình, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố đèn lò 6 cháy bóng, van lật silo lò 89 10: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 15,
+        "Mô tả công việc": "- Vá toa, máng đổ các lò: Khoa, tăng, Tài, Thế anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Làm kín cửa thăm ghi, cửa thăm gầu vôi các lò: Khải, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh tra dầu toa xích các lò: Tuấn, Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Tra dầu cáp gầu kíp các lò: Tuấn, Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thi công đường nước dập bụi lò 123: Bình, Toản, Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vá băng ra vôi gầm lò 123: Bình, Toản, Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố kẹt ghi lò 1: Bình, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố quạt thổi vôi sữa: Sảng, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố vá băng gầm lò 123: Bình, Sảng, Toàn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 90.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố làm kín cửa thăm ghi Lò 2: Khải, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 120.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng cân than 123: Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 30.0
+      },
+      {
+        "Ngày": 16,
+        "Mô tả công việc": "- Sự cố vá toa, máng đổ các lò 3: Khoa, Tăng, Thế Anh",
+        "Ghi chú": "Lò 3",
+        "Thời gian dừng (phút)": 540.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Làm ghệt băng gầm lò 89 10,  Khải, Hồng (hàn lại các chân giá đỡ bị gãy)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Chỉnh miệng than thùng than lò 123, bắn ghêt băng than: Khải, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Tra dầu toa xích các lò: Tuấn, Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Bơm mỡ sàng đá S1, S2, : Tuấn, Bình C ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Bắn lại gầu đá S2: Tuấn, Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thi công đường nước dập bụi lò 123: Toản, Bình, Sảng, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh tủ điện, máy nén khí các lò: Sảng, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa băng Bắn công S4 : Tài, Bình, Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố gầu kíp lò 8, 9, 10: Toản (hỏng cảm biến dưới)",
+        "Ghi chú": "Lò 8, Lò 9, Lò 10",
+        "Thời gian dừng (phút)": 60.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố đứt gầu vôi 4567: Khoa, Tăng, Khải",
+        "Ghi chú": "Lò 5, Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 90.0
+      },
+      {
+        "Ngày": 17,
+        "Mô tả công việc": "- Hàn máng đổ S2 : Khoa, tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Hàn chân con lăn: Khoa, tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Bảo dưỡng gối bi gầu đá: Bình C, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Bắn gầu đá S1, S2: Bình C, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Bơm mỡ quạt, mỡ ghi các lò, bôi mỡ gầu kíp: Sảng, Khải, ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa chữa băng Bắn công S4 : Bình, Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh tủ điện, máy nén khí: Sảng, Khải, ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố vít thải vôi sữa: Bình, Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng cân than lò 89: Bình, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố đường khí nén lò 89: Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vá băng ngang vào sàng S4 : Hồng, Thế anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố đứt gầu vôi 4567: Hồng, Thế Anh, Tài, Bình C, Sảng, Tuấn (sập gầu)",
+        "Ghi chú": "Lò 5, Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 1440.0
+      },
+      {
+        "Ngày": 18,
+        "Mô tả công việc": "- Tháo gầu băng cũ, nắn lại băng gầu 47: Thế Anh, Hồng, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Làm lô con lăn cho gầu vôi 47: Khoa, Tăng, ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra bảo dưỡng gầu múc đá S1, kiểm tra hệ thống cấp liệu rung: Bình C, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Làm giá đỡ bơm cấp hút bụi: Bình, Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Hỗ trợ vận hành dọn Vệ sinh: Tuấn, Hồng, Khoa tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Đi X30 chạy thử hệ thống cân tro bay: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố đứt gầu vôi 4567: Khoa, Tăng, Khải",
+        "Ghi chú": "Lò 5, Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 1440.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng tải đá vài gầu kíp 8910",
+        "Ghi chú": "Lò 8, Lò 9, Lò 10",
+        "Thời gian dừng (phút)": 60.0
+      },
+      {
+        "Ngày": 19,
+        "Mô tả công việc": " Đi X18 chạy thử hệ thống cân tro bay: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Chuyển máy nén khí 75 Kw ra ngoài để tín hành bảo dưỡng: Bình, Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Làm giá động cơ bơm hút bụi lò 123: Bình, Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Làm lô con lăn cho gầu vôi 47, hỗ trợ đội dán băng: Khoa, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh quay toa, hàn dẫn hưỡng lò 6: Bình C, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Làm ghệt băng dài qua đường 123: Hồng, Thế Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa điện nhà 70: Bình C, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố gầu vôi 1000T (gãy chốt): Khoa, Tăng, Bình, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố van lật silo lò 89: Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng đá vào gầu kíp 89: Toản, Tuấn Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Hỗ trợ vận hành lò sắt: Tuấn, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng tải hố âm 8910: Khoa, Hồng",
+        "Ghi chú": "Lò 8, Lò 9, Lò 10",
+        "Thời gian dừng (phút)": 150.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố đứt gầu vôi 4567: Khoa, Tăng, Khải",
+        "Ghi chú": "Lò 5, Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 1440.0
+      },
+      {
+        "Ngày": 20,
+        "Mô tả công việc": "- Lắp giá bơm cho hệ dập bụi lò 123: Bình, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Chuyển lưới điện cho văn phòng: Bình Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Đi X18 Thay động cơ, calip vít cân cấp tro bay: Sảng, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Lắp gầu băng gầu vôi lò 47: Khoa, Tăng, Bình C, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Hàn vết thủng bên silo than lò 89: Thế Anh, Hồng, ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Làm ghệt băng gầm lò 123: Thế Anh, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố đứt gầu vôi 4567: Khoa, Tăng, Khải",
+        "Ghi chú": "Lò 5, Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 1440.0
+      },
+      {
+        "Ngày": 21,
+        "Mô tả công việc": "- Bắt gầu vôi lò 47: Khoa, Tăng, Khải, ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Làm máng trượt vôi 47: Khoa, Tăng, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Lắp giá bơm hút bụi lò 123: Bình, Tài, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa điện dưới Thiên Tôn: Sảng, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Tháo điện mặt lò 123: Sảng, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố khí silo xỉ 89: Bình, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố đứt gầu vôi 4567: Khoa, Tăng, Khải",
+        "Ghi chú": "Lò 5, Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 1440.0
+      },
+      {
+        "Ngày": 22,
+        "Mô tả công việc": "- Lắp giá bơm hút bụi lò 123: Bình, Tài, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Lắp thanh chắn cửa ra vào công ty: Toản, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thay lọc gió, lọc dầu máy nén khí 132 Kw: Toản, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Hàn, chỉnh dẫn hướng quay toa lò 6: Bình C, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh thiết bị mặt lò 123, kiểm tra ghệt băng tải mặt lò 123: Bình C, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng tải đá hố âm S2 kẹt: Bình C, Hải",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 120.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố đứt gầu vôi 4567 - hoàn thiện hàng: Khoa, Tăng, Khải",
+        "Ghi chú": "Lò 5, Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 960.0
+      },
+      {
+        "Ngày": 23,
+        "Mô tả công việc": "- Sự cố sàng quay S4 : Bình, Tài, Toản, (vỡ hộp giảm tốc, cháy động cơ, Thay puly mới)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố vôi sữa: Tài, Tuấn (nhiễu tín hiệu cảm biến)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra van lật thùng trung gian lò 47: Bình, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra van ra vôi lò 47: Bình",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra gầu vôi lò 89, chế biến, 123: Khoa, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra, làm lại ghệt lò 123: Bình C, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra, bảo dưỡng, thay sửa xích gầu tải: Bình C, Khải, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố làm kín cửa tham ghi lò: Bình C",
+        "Ghi chú": "Lò 2",
+        "Thời gian dừng (phút)": 60.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố gầu núc đá S2: Bình C, Sảng",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 270.0
+      },
+      {
+        "Ngày": 24,
+        "Mô tả công việc": "- Đấu nối tủ phân phối đi Sơn La: Bình, Toản,",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thay xích cho băng vào sàng quay S4, gầu múc đá S2 : Bình, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra, tra dầu toa xích: Tuấn, Thế anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thi công điện dưới X18: Sảng,",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra làm kín cửa thăm lò 2: Khoa, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thay tấm lót lò 2: Bình C, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "-  Làm ghệt than mặt lò 123: Bình, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra, Thay Thế con lăn trên xưởng chế biến: Khoa, tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng tải đá vào gầu kíp 123: Khoa, Tăng",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 105.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cồ băng hốm âm S2 bị kẹt : Khoa, Tăng",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 210.0
+      },
+      {
+        "Ngày": 25,
+        "Mô tả công việc": "- Đấu nối tủ điện Đi Sơn La: Sảng",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh tủ điện, máy nén khí, Thay lọc dầu: Toản, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra, châm dầu toa xích các lò: Toản, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra làm kín cửa thăm lò 2 + 3: Khoa, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra thay con lăn băng vào gầu vôi 123, các băng xưởng chế biến: Bình C, Thế Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Đi Tam Điệp Lắp van gió: Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Lắp bơm nước hố âm S1 : Toản, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng mặt lò 89: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố van lật lò 47: Sảng, Bình",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng hố âm S2 kẹt: Bình C, Thế Anh",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 210.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng gầm lò 67: Bình C, Thế Anh",
+        "Ghi chú": "Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 120.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố hố âm S1 kẹt: Bình C, Thế Anh",
+        "Ghi chú": "Lò 5, Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 180.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Bảo dưỡng máy nén khí: Toản",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3, Lò 5, Lò 6, Lò 7, Lò 8, Lò 9, Lò 10",
+        "Thời gian dừng (phút)": 30.0
+      },
+      {
+        "Ngày": 26,
+        "Mô tả công việc": "- Đấu nối, chuẩn bị vật tư Đi Sơn La: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Làm giá bơm hút bụi lò 123: Bình, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra hệ thống cân các lò: Toản, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thay lô gầu múc đá S2 : Hồng, Thế anh, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thay con lăn hỏng quanh nhà máy: Hồng, Thế anh, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra bánh xe gầu kíp các lò: Khoa, tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa chữa mối nối băng ra đá 47: Khoa, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 27,
+        "Mô tả công việc": "- Thi công điện tại Sơn La: Bình, Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Lắp bơm hút bụi lò 123: Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh, bơm mỡ, kiểm tra tình trạng sàng đá S1, S2, lò 89: Tuấn, Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thay gối bị động gầu đá S2:  Hồng, Thế Anh, Khải,    Tuấn, Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thay con lăn quanh nhà máy khu vực chế biến: Hồng, Thế anh, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra, căn chỉnh gầu tải vôi các lò: Khoa, tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra làm kín cửa thăm ghi lò 4: Khoa, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố kẹt ghi lò 9: Toản",
+        "Ghi chú": "Lò 9",
+        "Thời gian dừng (phút)": 60.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố đứt xích  băng vào gầu kíp 4567; Hồng, Thế Anh",
+        "Ghi chú": "Lò 5, Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 60.0
+      },
+      {
+        "Ngày": 28,
+        "Mô tả công việc": "- Thi công đường nước dập bụi lò 123:  Bình, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố quay toa lò 4: Sảng, Tuấn, Toản (lỗi bt)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố sàng rung đá S1 : Sảng (đứt dây)",
+        "Ghi chú": "Lò 5, Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 210.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Lắp thêm đèn cho lò 1, cháy bóng đèn lò 4: Sảng, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố quạt máng khí động vôi sữa: Toản, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thay lô bị động gầu đá S2: Bình C, Khải, Thế Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thay khớp nối bản lề băng tải mặt lò 123: Khải, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố thủng toa, vá quay toa lò 3: Khải Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng hố âm S1 kẹt đất đá: Hồng",
+        "Ghi chú": "Lò 5, Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 300.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố thay rulo bị động gầu múc hố âm S2 mòn trục rulo: Bình C, Khải, Thế Anh",
+        "Ghi chú": "Lò 1, Lò 2. Lò 3",
+        "Thời gian dừng (phút)": 330.0
+      }
+    ],
+    "summary": [
+      "Thi công dự án hút bụi các lò 123",
+      "Vệ sinh, bảo dưỡng, thí nghiệm trạm biến áp lưới điện 22, 35 Kv",
+      "Bảo dưỡng chuyên sâu máy nén khí 75 Kw",
+      "Thi công sửa chữa ghi lò 4",
+      "Làm lại ghệt than, ghệt vôi các lò 1-10",
+      "Sửa chữa, thay thế con lăn hệ thống băng tải trong nhà máy",
+      "Làm kín cửa gió, cửa thăm các lò",
+      "Thay băng gầu vôi lò 47",
+      "Cải tạo sàng quay S4",
+      "Làm lại mối nối gầu 123",
+      "Thiết kế chế tạo lại gối lô bị động gầu vôi 47, 123, 89",
+      "Thi công chế tạo ghi lò 2 Tam Điệp",
+      "Kéo cáp nguồn, làm tủ phân phối hầm lò số 3",
+      "Cải tạo cách lắp van gió tổng Tam Điệp",
+      "Chạy thử và cải tạo vít cấp định lượng tro bay"
+    ],
+    "plan": [
+      "Hoàn thiện ghi lò 2 Tam Điệp",
+      "Hoàn thiện chạy thử hệ thống dập bụi lò 123",
+      "Nối lại băng gầu vôi lò 123",
+      "Thay cáp gầu kíp lò 123",
+      "Thay cáp gầu kíp lò 47",
+      "Thay băng tải cho các băng bị hỏng",
+      "Làm lại máng ra vôi gầm silo 47",
+      "Làm lại giá gối đỡ các gầu vôi 1-10, chế biến",
+      "Bảo dưỡng máy nén khí 75 Kw",
+      "Thiết kế lại hệ thống chuyển liệu máy nghiền đĩa",
+      "Bảo trì, sửa chữa thiết bị nhà máy. Mục tiêu giờ dừng lò sự cố < 800h ( <12%)"
+    ]
+  },
+  "Tháng 3": {
+    "log": [
+      {
+        "Ngày": "Ngày",
+        "Mô tả công việc": "Mô tả công việc",
+        "Ghi chú": "Ghi chú",
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 1,
+        "Mô tả công việc": "- Thi công đường nước dập bụi lò 123, đường nước cấp sang hố âm: Bình, Tải, Toản, ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thi công chế tạo ghi lò 1 Tam Điệp:  Tăng, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra, căn chỉnh băng cấp đá, gầu vôi các lò 1-10: Khoa, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra, vệ sinh toa thay con lăn khu vực mặt 123: Bình C, Hồng, Thế Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố động cơ sàng đá S1 : Bình, Tài, Toản (cháy động cơ)",
+        "Ghi chú": "Lò 4, Lò 5, Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 1242.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố van lật silo vôi 89: Toản, (gãy trục)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố can nhiệt lò 3: Toản (đứt dây)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố bơm nước hố âm: Bình, Tài (đứt khớp nối)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vá băng gầm lò 123: Bình C, Thế Anh, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vá lỗ thùng sàng S4 : Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố hố âm S1 : Khoa, Thế Anh (tắc miệng)",
+        "Ghi chú": "Lò 4, Lò 5, Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 75.0
+      },
+      {
+        "Ngày": 2,
+        "Mô tả công việc": "- Đi X18 làm bắn xung tro bay: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thi công đường nước dập bụi: Bình, Tài, Toản, Sảng, ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thi công chế tạo ghi L1 Tam Điệp: Tăng, Thế Anh, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra hệ thống gầu vôi: Khoa, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra tra dầu nhông xích, gối con lăn băng tải : Bình C,",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vá sàng đá S2: Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vá băng tải vôi S4 : Thế Anh.",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng tải đá hố âm S1",
+        "Ghi chú": "Lò 8, Lò 9 , Lò 10",
+        "Thời gian dừng (phút)": 90.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố kẹt van lật dừng lò 4",
+        "Ghi chú": "Lò 4",
+        "Thời gian dừng (phút)": 60.0
+      },
+      {
+        "Ngày": 3,
+        "Mô tả công việc": "- Thi công hệ thống dập bụi lò 123: Bình, Toản, Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thi công chế tạo ghi L1 Tam Điệp: ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa chữa con lăn tại xưởng: Khoa, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thay thế con lăn hỏng lò 1-10: Khoa, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra ghệt băng tải, sửa chữa ghệt hố âm 8910, 123: Bình C, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố vá quay toa lò 10, làm lại cửa thăm khu vực quay toa : Khoa, Tăng, Thế Anh",
+        "Ghi chú": "Lò 10",
+        "Thời gian dừng (phút)": 1020.0
+      },
+      {
+        "Ngày": 4,
+        "Mô tả công việc": "- Thi công đường điện nước dập bụi lò 123: Bình, Toản, Tài, ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa chữa máy lốc tôn: Sảng, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa chữa con lăn, thay Thế con lăn bị hỏng: Khải, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- thay Thế con lăn, tra dầu nhông xích khu vực xưởng chế biến: Khải, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố vá quay toa lò 10, làm lại cửa thăm khu vực quay toa lò 10: Khoa, Tăng, Thế Anh",
+        "Ghi chú": "Lò 10",
+        "Thời gian dừng (phút)": 960.0
+      },
+      {
+        "Ngày": 5,
+        "Mô tả công việc": "- Thi công sửa chữa máng quay toa lò 10: Khoa, Tăng, Thế Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thi công đường điện nước dập bụi lò 123: Bình, Tài, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa chữa máy lốc tôn: Sảng, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa chữa con lăn, thay Thế con lăn bị hỏng: Khải, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- thay Thế con lăn, tra dầu nhông xích khu vực xưởng chế biến: Khải, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố buồng trộn vôi sữa: Sảng, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố cháy đèn lò 8: Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa chữa bơm nước sàng đá S1 : Bình",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố cảm biến gầu kíp 8910: Sảng",
+        "Ghi chú": "Lò 8, Lò 9 , Lò 10",
+        "Thời gian dừng (phút)": 30.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố sàng vôi S3 : Hồng, Khải (bó bi)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 6,
+        "Mô tả công việc": "- Kiểm tra, bảo dưỡng hệ thống vôi sữa: Sảng, Tài, Bình",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Gia công ghi lò 1 Tam ĐIệp: Tăng, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố kiểm tra khe ghi lò 2: Bình C, Tuấn",
+        "Ghi chú": "Lò 2",
+        "Thời gian dừng (phút)": 60.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh toa các lò: Bình C, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Lắp đường nước dập bụi lò 123: Bình, Sảng, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra, bảo dưỡng gầu vôi 123, 47: Khoa, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa chữa, thay Thế con lăn hỏng, giá ra cáp: Khoa, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Cắt miếng tôn bị gió thổi gãy hố âm đá 67: Khoa, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố thùng cân đá lò 89: Sảng (gió thổi mạnh làm thùng giao động)",
+        "Ghi chú": "Lò 8, Lò 9 , Lò 10",
+        "Thời gian dừng (phút)": 285.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố rung đá hố âm lò 89, bộ nguồn thủy lực lò 89: Sảng (lỗi biến tần)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thi công đường nước dập bụi: Bình Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố kẹt ghi lò 9, 10",
+        "Ghi chú": "Lò 9, Lò 10",
+        "Thời gian dừng (phút)": 30.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố làm kín quạt lò 1",
+        "Ghi chú": "Lò 1",
+        "Thời gian dừng (phút)": 30.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa điện cho phòng KCS: Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 7,
+        "Mô tả công việc": "- Gia công ghi lò 1 Tam Điệp: Thế Anh, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra gầu vôi 123-1000T, gầu đá S1-S2 : Khoa, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Gia công giá ra cáp chuẩn bị cáp thay lò 4567",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Tra dầu mỡ vệ sinh toa lò 1-10: Bình C , Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thi công đường nước dập bụi lò 123: Bình , Tài, Toản, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sử lý sự cố quay toa lò 10: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sử lý sự cố soi nhiệt vôi lò 5: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Chuyển nguồn điện dưới mỏ Phú Sơn: Sảng, Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng cân than 8910 lệch: Hồng",
+        "Ghi chú": "Lò 8, Lò 9 , Lò 10",
+        "Thời gian dừng (phút)": 60.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng cân đá 8910 lỗi: Toản",
+        "Ghi chú": "Lò 8, Lò 9 , Lò 10",
+        "Thời gian dừng (phút)": 30.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng đỉnh SILO 123: Bình, Hồng",
+        "Ghi chú": "Lò 1, Lò 2 , Lò 3",
+        "Thời gian dừng (phút)": 600.0
+      },
+      {
+        "Ngày": 8,
+        "Mô tả công việc": "- Gia công ghi lò 1 Tam Điệp: Thế Anh, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra gầu vôi 123-1000T, gầu đá S1-S2 : Khoa, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Gia công giá ra cáp chuẩn bị cáp thay lò 4567",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Tra dầu mỡ vệ sinh toa lò 1-10: Bình C , Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thi công đường nước dập bụi lò 123: Bình , Tài, Toản, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sử lý sự cố quay toa lò 10: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sử lý sự cố soi nhiệt vôi lò 5: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Chuyển nguồn điện dưới mỏ Phú Sơn: Sảng, Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 9,
+        "Mô tả công việc": "- Kiểm tra gầu đá S1, S2: Bình C, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Bắn ghệt băng tải mặt lò 123: Bình C, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh sửa chữa con lăn, thay thế con lăn hỏng : Bình C, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra gầu vôi các vị trí: Khoa, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Gia công chế tạo bộ giảm sóc gầu vôi: Khoa, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Hoàn thiện và chạy thử hệ thống dập bụi: Bình, Toản, Tài, Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố van lật mặt lò 8910: Bình, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố kết nối lò 8910: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố bắn ghệt băng cân đá 123 bị mòn: Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 60.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố toa lò 6 - lỗi",
+        "Ghi chú": "Lò 6",
+        "Thời gian dừng (phút)": 480.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng hố âm S1 kẹt : Bình c",
+        "Ghi chú": "Lò 4, Lò 5, Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 450.0
+      },
+      {
+        "Ngày": 10,
+        "Mô tả công việc": "- Thi công ghi lò 2 trong Tam Điệp: Bình C, Thế Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra gầu vôi các lò: Khoa, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Gia công chế tạo gầu múc đá cho gầu đá S2 : Khoa, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Gia công chế tạo bộ giảm sóc: Khoa, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh toa, tra dầu nhông xích từ khu vực lò 8910, xưởng chế biến: Hồng, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Hoàn thiện và chạy thử hệ thống dập bụi lò 123: Bình, Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh tủ điện, máy nén khí: Sảng, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra đường lưới điện, trạm biến áp quanh nhà máy: Sảng, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 11,
+        "Mô tả công việc": "- Thi công ghi lò 2 trong Tam Điệp: Bình C, Thế Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Gia công và thay Thế gầu đá bị hỏng S2 : Khoa, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Chuẩn bị đồ vá toa lò 9: Khoa, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- vệ sinh gầu đá S1, S2 : Hồng, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra lưới điện nhà máy: Sảng, ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh tử điện máy nén khí: Sảng, ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Chạy thử và hoàn thiện hút bụi lò 123: Bình, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Căn lại động cơ băng lên sàng hố âm lò 89 10: Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- vệ sinh hệ thống cân định lượng các lò: Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 12,
+        "Mô tả công việc": "- Thi công ghi lò 2 trong Tam Điệp: Bình C, Thế Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố chuẩn bị và vá toa lò 9: Khoa, Tăng, Kiên",
+        "Ghi chú": "Lò 9",
+        "Thời gian dừng (phút)": 570.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra, bơm mỡ sàng đá, gầu đá S1, S2, : Hồng, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- thay Thế con lăn hỏng trong xưởng: Hồng, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra máng khí động vôi sữa: Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- bơm mỡ quạt các lò: Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Hoàn thiện và chạy thử hệ thống hút bụi lò 123: Bình, Sảng, Tuấn, Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Chỉnh cảm biến cho bàn ghi lò 10: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 13,
+        "Mô tả công việc": "- Sự cố thi công vá toa lò 10: Tăng, Kiên",
+        "Ghi chú": "Lò 10",
+        "Thời gian dừng (phút)": 210.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra các gầu múc vôi: Khoa, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra quay toa, tra dầu toa các lò: Tuấn, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Hoàn thiện bơm nước dập bụi: Bình, Tài, ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Hàn máng dẫn hướng quay toa lò 9: Tuấn, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa băng vào gầu đá S1 : Khoa, Khải, Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa chữa sàng rung đá S1 : Tuấn, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố kẹt ghi lò 8: Bình",
+        "Ghi chú": "Lò 8",
+        "Thời gian dừng (phút)": 30.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thi công ghi lò Tam Điệp: Bình C, Thế Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố kẹt gầu múc đá S2: Sảng, Bình C",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 240.0
+      },
+      {
+        "Ngày": 14,
+        "Mô tả công việc": "- Kiểm tra vệ sinh gầu đá S2 : Khải, Tuấn, Kiên",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra gầu vôi các lò: Khoa, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Hàn chế tạo bộ giảm xóc: Khoa, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- tra dầu xích: Bình, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra động cơ vôi sữa: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Dán giấy văn phòng: Sảng, Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa chữa gầu tải đá S2: Sảng, Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố tụt tấm lót toa lò 8: Khoa, Tăng",
+        "Ghi chú": "Lò 8",
+        "Thời gian dừng (phút)": 90.0
+      },
+      {
+        "Ngày": 15,
+        "Mô tả công việc": "- Thi công thay quạt máng khí động vôi sữa: Bình, Tài, ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Bổ xung dầu hộp giảm tốc khu vực chế biến: Bình, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra băng tải, bản lề, tra dầu nhông xích băng tải khu vực quanh nhà máy: Kiên, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- thay Sửa vòng bi con lăn: Kiên, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra gầu tải vôi, gia công bộ giảm xóc: Tăng,",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra mặt lò, khu vực quay toa các lò: Bình C, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra băng tải hố âm: Bình C, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thay at cho quạt hút bụi: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra, vệ sinh tủ điện các lò: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố báo kẹt gầu vôi lò 47: Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố cân than 123",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 120.0
+      },
+      {
+        "Ngày": 16,
+        "Mô tả công việc": "- Tháo mái tôn khu vực giữa văn phòng để thay thành trần nhựa: Toản, Tài, Bình",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- chuẩn bị đồ Thi công hạ máng khu vực gầu đá S1 : Tăng, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Gia công bộ chống lún gầu múc vôi 47: Tăng, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Chuẩn bị cáp để thay cho gầu kíp lò 47: Hồng, Bình C, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh bảo dưỡng gầu đá S2: Hồng, Bình C, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra gầu vôi các lò: Khoa, Kiên",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra rung hố âm, băng tải đá hố âm 89: Khoa, Kiên",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Đi X18 Kiểm tra thiết bị: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố vá máng dẫn hướng Lò 9",
+        "Ghi chú": "Lò 9",
+        "Thời gian dừng (phút)": 105.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng cân đá 123 kẹt",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 60.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố thủng máng sàng đá S2",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 510.0
+      },
+      {
+        "Ngày": 17,
+        "Mô tả công việc": "- Thi công thay cáp gầu kíp lò 47: Bình, Sảng, Khoa, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thi công Sửa máng hố âm S1 : Tăng, Bình, Khải, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố vôi sữa: Sảng (hỏng cảm biến)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố sàng vôi S3 : Sảng (quá tải)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra van lật silo trung gian 89: Kiên, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra vệ sinh mặt lò 8910: Kiên, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 18,
+        "Mô tả công việc": "- Thi công điểm an toán để thay cáp 8 9 10: Tăng, Khải (làm sàn thao tác)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thay bi cân đá lò 123: Khoa, Tài ",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 1080.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra gầu vôi các lò 1- 10: Khoa",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- bơm mỡ sàng vôi, đá: Tuấn, Kiên",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- tra dầu toa xích xưởng chế biến: Tuấn, Kiên",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Lắp bơm nước, Đi X18 : Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Tháo tôn khu nhà ăn: Sảng, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 19,
+        "Mô tả công việc": "- Sự cố thay cáp gầu kíp lò 89 10 : Khoa, Bình, Tài, Khải, Bình C",
+        "Ghi chú": "Lò 8, Lò 9 , Lò 10",
+        "Thời gian dừng (phút)": 480.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố thùng cân đá 123: Toản, Tuấn",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 90.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Hàn ke ghi lò 9: Tăng,  Kiên",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- vệ sinh tủ điện máy nén khí: Toản, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- làm lại báo đầy silo vôi thải: Toản, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Tháo mái hiên nhà ăn: Tài, Bình",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra băng tải hố âm: Bình C, Kiên",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra gầu vôi: Khoa, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thi công Tam Điệp: Thế Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 20,
+        "Mô tả công việc": "- Sửa chữa, bảo dưỡng gầu đá S2, S1. Băng hố âm: Bình C, Kiên, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Chuẩn bị thay băng tải thay băng mặt silo 1000T: Tăng, Khoa, ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra gầu vôi các lò: Tăng, Khoa",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Tháo xà gồ nhà ăn: Bình, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Bảo dưỡng máy nén khí 75: Bình, Tài, Toản, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- thay át hỏng cho bơm quạt: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- chạy thử hệ thống hút bụi: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Đi X18 Sửa điện: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thi công Tam Điệp: Thế Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố băng đỉnh SILO 123 kẹt",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 480.0
+      },
+      {
+        "Ngày": 21,
+        "Mô tả công việc": "- Bảo dưỡng máy nén khí 75Kw: Bình, Toản, Tài, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra điện công gỗ: Bình, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- chuẩn bị băng tải đỉnh silo: Tăng, Khoa, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- thay băng tải hố âm S1 : Tăng, Khoa, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Hàn dẫn hướng, sửa dẫn hướng lò 6: Kiên, Bình C, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra vệ sinh hệ thống cân mặt lò 47: Kiên, Bình C, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố kẹt vít cấp liệu vôi sữa: Bình C, Kiên",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 22,
+        "Mô tả công việc": "- Sửa chữa đường nước dưới hố âm: Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra điện nhà ăn: Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra van gió trong Tam Điệp: Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Bảo dưỡng máy nén khí 75 Kw: Sảng, Bình ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Khôi phục động cơ Đi cuốn về: Sảng, Bình",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Hàn dẫn hướng quay toa lò 6: Tăng, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra gầu múc vôi: Kiên, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- tra dầu toa xích: Kiên, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 23,
+        "Mô tả công việc": "- Hoàn thiện máy nén khí 75 Kw: Sảng, Bình",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra cáp gầu kíp lò 89: Bình",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra van gió nhánh tầng 2 Tam Điệp: Bình C",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thi công hoàn thiện hệ thống ghi lò 2 Tam Điệp: Thế Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra đường nước cấp hố âm: Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra băng tải hố âm lò 89, 47, gầu tải vôi các lò: Khoa, Khải, Kiên",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa điện dưới Thiên tôn: Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 24,
+        "Mô tả công việc": "- Lắp van gió, hoàn thiện ghi lò 2 Tam Điệp: Sảng, Bình C,",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh bàn cân 120 T: Toản, Bình",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Chặt cây, phát cây đường lưới 35, vệ sinh tủ điện các lò: Toản, Bình",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Lấy dấu, chuẩn bị băng tải thay băng gầu tải vôi lò 123: Khoa, Tăng, Bình",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra gầu vôi các lò: Khoa, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- bơm mỡ sàng đá, sàng vôi, Kiểm tra sàng đá vôi các lò: Tuấn, Khải, Kiên",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố lệch băng đá hố âm lò 89: Khoa, Tăng",
+        "Ghi chú": "Lò 8, Lò 9 , Lò 10",
+        "Thời gian dừng (phút)": 120.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố gầu múc đá S2 tụt gầu, kẹt băng: Tuấn, Khải, Kiên",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 390.0
+      },
+      {
+        "Ngày": 25,
+        "Mô tả công việc": "- Sửa chữa van lò 1 Tam Điệp: Bình C, Thế Anh, Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Hoàn thiện ghi lò 1 Tam Điệp: Bình C, Thế Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Chuẩn bị băng tải thay cho gầu vôi lò 123: Khoa, Tăng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh tủ điện máy nén khí các lò: Bình, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra đường nước cấp hố âm, dập bụi: Bình, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra phanh gầu kíp, gầu vôi các lò: Toản, Tài, ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra, làm lại đường điện nhà ăn: Toản, Tài, Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra, tra dầu toa xích các lò: Kiên, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra, gầu tải đá S1, S2 : Kiên, Khải",
+        "Ghi chú": "Lò 1, Lò 2, Lò 3",
+        "Thời gian dừng (phút)": 240.0
+      },
+      {
+        "Ngày": 26,
+        "Mô tả công việc": "- Chuyển quạt máy nghiền đĩa: Bình, Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Chuẩn bị thay băng mặt silo 123, gầu vôi 123: Khoa, Tăng, Hồng, Bình, Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- tra gầu múc đá S1, S2 Vệ sinh hố âm cùng vận hành: Kiên, Thế Anh, Sảng, Toản, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra gầu múc vôi các vị trí: Bình C, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Tra dầu toa xích: Bình C, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra hệ thống cân 1-9, vệ sinh tủ điện: Tuấn, Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Bóc tôn, gầu múc đá bên cảng: Kiên, Thế Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Chuyển dây điện bóng đèn ngoài cửa công ty: Bình, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa nước nhà ăn: Sảng, Toản,",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 27,
+        "Mô tả công việc": "- Thay băng gầu tải vôi lò 123 (tháo gầu múc, tháo băng): Bình C, Bình Điện, Khải, Khoa",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Lắp bộ giảm chấn cho gầu tải vôi L123: ",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thay băng tải mặt silo lò 123: Tăng, Hồng, Thế Anh, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Thay van lật thùng trung gian 47, 123 : Sảng, Tuấn, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Hàn gầu xúc đào bên bờ sông: Kiên",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 28,
+        "Mô tả công việc": "- Thay băng gầu tải vôi lò 123 (dán băng, hàn giảm xóc): Khoa, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Lắp băng mặt đỉnh silo 123 (lắp vít me): Tăng, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Lắp con lăn trong xưởng:, Thế Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Bảo dưỡng băng tải, động cơ 123: Bình, Tài, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Tháo tôn mặt băng tải silo 1000T: Tăng, Hồng, Bình, Tài, Toản",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra test đầu cân điện tử: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố treo gầu kíp lò 47: Kiên, Thế Anh, Bình, Tuấn (gầu kẹt không trôi xuống)",
+        "Ghi chú": "Lò 4, Lò 5, Lò 6, Lò 7",
+        "Thời gian dừng (phút)": 660.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sự cố vôi sữa: Sảng Toản (tắt đường ống)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 29,
+        "Mô tả công việc": "- Thay băng gầu tải vôi lò 123 (dán băng, hàn giảm xóc): Khoa, Khải",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Lắp băng mặt đỉnh silo 123 (lắp vít me): Tăng, Hồng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra ghệt mặt lò 123: Bình C, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa dẫn hướng toa lò 1: Kiên, Thế Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Kiểm tra điện dưới Thiên tôn: Toản, Tuấn (trực Sự cố)",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Đi Phú Sơn, X18 Kiểm tra điện: Sảng",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh tủ điện, khảo sát đường Đi từ bờ sông về bên nhà máy. Bình",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": 30,
+        "Mô tả công việc": "- Làm gầu vôi lò 123 (bắt gầu): Khoa, Khải, Hồng, Tài",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Sửa chữa bàn cân 120 Tấn: Bình C, Bình, Thế Anh",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      },
+      {
+        "Ngày": NaN,
+        "Mô tả công việc": "- Vệ sinh tủ điện, bảo dưỡng động cơ 47: Toản, Tuấn",
+        "Ghi chú": NaN,
+        "Thời gian dừng (phút)": 0.0
+      }
+    ],
+    "summary": [
+      "Hoàn thiện ghi lò 2 Tam Điệp",
+      "Hoàn thiện chạy thử hệ thống dập bụi lò 123",
+      "Nối lại băng gầu vôi lò 123",
+      "Thay cáp gầu kíp lò 123",
+      "Thay cáp gầu kíp lò 47",
+      "Thay băng tải cho các băng bị hỏng (băng mặt silo 1000T, băng silo 123, băng gầm L123)",
+      "Làm lại máng ra vôi gầm silo 47",
+      "Làm lại giá gối đỡ các gầu vôi 1-10, chế biến",
+      "Các công việc bảo trì bảo dưỡng trong nhà máy",
+      "Bảo dưỡng máy nén khí 75 Kw",
+      "Tìm hiểu áp dụng AI trong công việc"
+    ],
+    "plan": [
+      "Hoà máy nén 75Kw vào hệ thống khí",
+      "Thi công điện hầm lò 3 +2 mỏ Sơn La",
+      "Thi công hệ thống dập bụi lò 89 10",
+      "Làm lại hệ thống khuấy vôi sữa",
+      "Thí nghiệm nâng công suất vôi sữa",
+      "Thiết kế, thi công đường nước chuyển từ bên sông về bên 123, 47",
+      "Kiểm tra lại hệ thống tiếp địa toàn nhà máy chuẩn bị cho mùa mưa",
+      "Thí nghiệm chia đôi giữa liệu từ bàn cân 120T",
+      "Kiểm tra thiết bị, dự án trong Hà Tĩnh",
+      "Thiết kế chuyển vật liệu nghiền lên silo 1000T (vôi sữa, liệu)",
+      "Bảo trì, sửa chữa thiết bị nhà máy. Mục tiêu giờ dừng lò sự cố < 600h ( <8.3%)",
+      "Thi kết lại khớp nối gầu tải vôi các lò, cụm xưởng chế biến",
+      "Thiết kế phân loại sản phẩm vôi",
+      "Tiếp tục triển khai công việc AI"
+    ]
+  }
+}
